@@ -8,7 +8,7 @@ This repository contains my research on optimizing on-site search engines in e-c
 
 ## 📄 Research Paper | Ερευνητική Εργασία
 
-Available in two languages:
+Available in two languages | Διαθέσιμο σε δύο γλώσσες:
 
 - 🇬🇧 English version: [View Paper](./ecommerce-search-optimization-paper_EN.pdf)  
 - 🇬🇷 Ελληνική έκδοση: [Δείτε το Paper](./ecommerce-search-optimization-paper_GR.pdf)
@@ -59,30 +59,17 @@ The goal of this research is to analyze how on-site search systems impact:
 
 ## 🔗 Business Relevance | Επιχειρησιακή Σημασία
 
-On-site search is a critical component in e-commerce, directly affecting:
+Η αναζήτηση αποτελεί κρίσιμο στοιχείο στο e-commerce, επηρεάζοντας: | On-site search is a critical component in e-commerce, directly affecting:
 
 - Customer experience  
 - Product discovery  
 - Sales performance  
 
-Η αναζήτηση αποτελεί κρίσιμο στοιχείο στο e-commerce, επηρεάζοντας:
-
-- Την εμπειρία πελάτη  
-- Την εύρεση προϊόντων  
-- Τις πωλήσεις  
-
 ---
 
 ## 🚀 Next Steps | Επόμενα Βήματα
 
-This research will be extended into a practical data analysis project using:
-
-- Python (pandas, numpy)  
-- Data visualization (matplotlib, seaborn)  
-- SQL  
-- Machine learning  
-
-Η έρευνα θα επεκταθεί σε πρακτικό project ανάλυσης δεδομένων με χρήση:
+Η έρευνα θα επεκταθεί σε πρακτικό project ανάλυσης δεδομένων με χρήση: | This research will be extended into a practical data analysis project using:
 
 - Python (pandas, numpy)  
 - Data visualization (matplotlib, seaborn)  
