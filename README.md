@@ -40,7 +40,7 @@ The goal of this research is to analyze how on-site search systems impact:
 - Visual elements enhance engagement  
 - AI is transforming search into natural language interaction  
 
-- Οι χρήστες ακολουθούν συμπεριφορά αναζήτησης από γενικό σε πιο συγκεκριμένο  
+- Οι χρήστες ακολουθούν πρακτική αναζήτησης από γενικό σε πιο συγκεκριμένο  
 - Οι βελτιώσεις στο UX αυξάνουν σημαντικά τα conversion rates  
 - Τα οπτικά στοιχεία ενισχύουν την αλληλεπίδραση  
 - Η Τεχνητή Νοημοσύνη μετασχηματίζει την αναζήτηση σε φυσική γλώσσα  
@@ -59,7 +59,7 @@ The goal of this research is to analyze how on-site search systems impact:
 
 ## 🔗 Business Relevance | Επιχειρησιακή Σημασία
 
-Η αναζήτηση αποτελεί κρίσιμο στοιχείο στο e-commerce, επηρεάζοντας: | On-site search is a critical component in e-commerce, directly affecting:
+On-site search is a critical component in e-commerce, directly affecting: | Η αναζήτηση αποτελεί κρίσιμο στοιχείο στο e-commerce, επηρεάζοντας:
 
 - Customer experience  
 - Product discovery  
@@ -69,7 +69,7 @@ The goal of this research is to analyze how on-site search systems impact:
 
 ## 🚀 Next Steps | Επόμενα Βήματα
 
-Η έρευνα θα επεκταθεί σε πρακτικό project ανάλυσης δεδομένων με χρήση: | This research will be extended into a practical data analysis project using:
+This research will be extended into a practical data analysis project using: | Η έρευνα θα επεκταθεί σε πρακτικό project ανάλυσης δεδομένων με χρήση:
 
 - Python (pandas, numpy)  
 - Data visualization (matplotlib, seaborn)  
